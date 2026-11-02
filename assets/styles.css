@@ -256,3 +256,9 @@ fieldset.field { border: 0; margin: 0; padding: 0; }
   .nav { display: flex; order: 3; width: 100%; gap: 24px; overflow-x: auto; border-top: 1px solid var(--sh-line); padding: 4px 0; }
   .nav a { padding: 10px 0; white-space: nowrap; }
 }
+
+
+/* ---------- Footer small print ---------- */
+.site-footer { padding: 40px 0 28px; font-size: 14px; }
+.footer-bottom { padding-top: 16px; font-size: 12px; line-height: 1.5; color: var(--sh-steel); }
+.site-footer .footnote { margin: 10px 0 0; font-size: 11px; line-height: 1.5; color: var(--sh-steel); }
